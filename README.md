@@ -1,7 +1,9 @@
-# WSB Quant - Can Deep Learning Transformers Model Reddit’s WallStreetBets to Analyse Financial Advice?
+# WSB Quant - Should hedge funds pay greater attention to online retail investors?
 
 ## Description
 Sebastian Dixon BSc Data Science Dissertation Research Project
+
+The question: Can Deep Learning Transformers Model Reddit’s WallStreetBets to Analyse Financial Advice?
 
 This study investigates the movements in the stock market in early 2021 as a result of online financial
 investment communities’ behaviour. Community post semantic analysis is performed via the use of deep

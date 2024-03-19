@@ -1,4 +1,4 @@
-# WSB Quant - Should Hedge Funds Pay Greater Attention to Online Retail Investors?
+# WSB Quant - Should Hedge Funds Pay Greater Attention to Online Retail Investor Communities?
 
 ## Description
 Sebastian Dixon BSc Data Science Dissertation Research Project

@@ -1,9 +1,9 @@
-# WSB Quant - Should Hedge Funds Pay Greater Attention to Online Retail Investor Communities?
+# WSB Quant - WallStreetBets: The Future of Retail Trading, are Hedge Funds at Risk?
 
 ## Description
-Sebastian Dixon BSc Data Science Dissertation Research Project
+Sebastian Dixon BSc Data Science Individual Research Project
 
-The question: Can Deep Learning Transformers Model Reddit’s WallStreetBets to Analyse Financial Advice?
+The question: WallStreetBets: The Future of Retail Trading, are Hedge Funds at Risk?
 
 This study investigates the movements in the stock market in early 2021 as a result of online financial
 investment communities’ behaviour. Community post semantic analysis is performed via the use of deep
